@@ -1,4 +1,4 @@
-# REST API Projects
+# REST API Project
 
 This repository contains REST API project created using **Postman**. Project demonstrate the use of core HTTP methods such as **GET**, **POST**, **PUT**, **PATCH**, and **DELETE**. The project include a collection of requests, an environment file for dynamic variables, and a runner collection for executing tests in a specified order.
 
